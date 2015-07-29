@@ -1,0 +1,15 @@
+TEMPI DI ESECUZIONE degli algoritmi
+___________________________________
+
+MONTAGNA:		0,0342    s
+GRAPH_BFS:		0,0270    s
+BFS:		        0,0541    s
+DIJKSTRA:		0,0567	  s
+FLOYD-WARSHALL:		0,1995	  s
+___________________________________
+
+
+Caso 1: 0
+Caso 2: 4
+Caso 3: 14
+Caso 4: impossibile
